@@ -1,0 +1,14 @@
+Specimen number	taxa	taxon	crmw	ow	tl	crml	clml	clw	crmh	oh	ol
+IPS36548	C.bravoi	Giant insular murinae 	21,82	9,99	34,09	22,04	5,72	24,01	14,49	7,72	6,15
+TFMCVF873	C.bravoi	Giant insular murinae 	21,13	7,98	33,18	21,13	6,43	20,78	13,8	6,58	5,6
+ZFMK 2010.308	C.tamarani	Giant insular murinae 	21,19	7,32	31,46	19,77	5,04	18,63	14,3	8,27	6,56
+MNHN-ZM-MO-1998-1113	A.niloticus	Mainland murinae	12,84	4,51	19,71	11,5	3,93	11,01	8,76	4,73	4,11
+MNHN-ZM-MO-2004-750	A.niloticus	Mainland murinae	12,7	4,83	19,5	11,12	3,59	10,99	8,85	4,96	4,72
+MNHN-ZM-MO-1978-195	A.neumanni	Mainland murinae	13,5	4,76	22,95	12,9	3,79	11,53	9,14	4,79	5,96
+MNHN-ZM-MO-1905-213A	A. abyssinicus	Mainland murinae	13,09	4,71	20,25	11,3	3,98	11,5	8,85	4,74	4,94
+MNHN-ZM-2008-6	L.striatus	Mainland murinae	11,94	4,67	19,22	11,3	3,98	9,07	8,71	4,28	4,04
+MNHN-ZM-MO-2007-1247	P.fallax	Mainland murinae	12,98	5,22	20,39	12,19	3,73	10,08	9,17	4,61	4,42
+MNHN-ZM-2005-688	R.pumilio	Mainland murinae	10,93	3,86	17,77	9,46	3,77	8,58	7,5	3,83	4,64
+M-443	R.rattus 	Mainland murinae	16,21	5,11	24,47	13,23	5,33	13,83	10,48	6,35	5,19
+MNHN-ZM-MO-1897-414	C.schadenbergi	Giant insular murinae 	21,05	7,01	36,06	19,67	7,87	16,07	14,42	6,8	6,64
+MNHN-ZM-AC-A7569	P.cumingi	Giant insular murinae 	22,14	9,54	35,79	21,44	7,17	18,27	15,6	7,32	6,58
